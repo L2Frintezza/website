@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'ABC Ginto Normal Unlicensed Trial';
+    src: url('ABCGintoNormal-Bold.woff2') format('woff2'),
+        url('ABCGintoNormal-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Ginto Normal Unlicensed Trial';
+    src: url('ABCGintoNormal-Light.woff2') format('woff2'),
+        url('ABCGintoNormal-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Ginto Normal Unlicensed Trial';
+    src: url('ABCGintoNormal-Black.woff2') format('woff2'),
+        url('ABCGintoNormal-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Ginto Normal Unlicensed Trial';
+    src: url('ABCGintoNormal-Medium.woff2') format('woff2'),
+        url('ABCGintoNormal-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Ginto Normal Unlicensed Trial';
+    src: url('ABCGintoNormal-Regular.woff2') format('woff2'),
+        url('ABCGintoNormal-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
